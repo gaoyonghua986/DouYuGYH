@@ -12,8 +12,9 @@ import UIKit
 class MainViewController: UITabBarController {
 
     override func viewDidLoad() {
-        super.viewDidLoad()
-     print("123456");
+     super.viewDidLoad()
+     print("123456")
+     print("123456")
      addChildVC("Home")
      addChildVC("Live")
      addChildVC("Follow")
